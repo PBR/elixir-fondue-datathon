@@ -1,10 +1,4 @@
-## day2 Q&A 
-(1 morning / afternoon , few days later)
-* Welcome & introduction
-* questions / discussions / trouble shootings
-* closing
-
-##  day3 Evaluation  
+##  day2 Evaluation  
 (1 morning / afternoon, 1 week later)
 * Welcome & introduction
 * quick walkthrough of day 1 
