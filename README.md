@@ -11,3 +11,5 @@ Workshops for databases:
 * BIOsamples: https://www.ebi.ac.uk/biosamples/
 * European Variation Archive: https://www.ebi.ac.uk/eva/
 
+[SUBSCRIBE](https://forms.gle/uSA4kMX5GnG4L9E46) before ...
+
