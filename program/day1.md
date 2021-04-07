@@ -1,4 +1,5 @@
-![alt text](http://www.biocuration2019.org/sites/default/files/styles/large/public/2018-11/ELIXIR%20logo_2013.png "ELIXIR")
+
+<img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/logo_elixir.png" width="200">
 
 # day1 intro, discuss & process data
 (1 morning / afternoon,  separate for each database  )
