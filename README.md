@@ -1,5 +1,5 @@
-<img src="images/logo_elixir.png" width="100" align="right">
 # ELIXIR FONDUE Datathon 
+
 Outline workshop data submission EBI
 
 ## Program
