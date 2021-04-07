@@ -3,12 +3,12 @@ Outline workshop data submission EBI
 
 Workshops for databases:
 
-European Nucleotide Archive: https://www.ebi.ac.uk/ena/browser/home
-BIOsamples: https://www.ebi.ac.uk/biosamples/
-European Variation Archive: https://www.ebi.ac.uk/eva/
+* European Nucleotide Archive: https://www.ebi.ac.uk/ena/browser/home
+* BIOsamples: https://www.ebi.ac.uk/biosamples/
+* European Variation Archive: https://www.ebi.ac.uk/eva/
 
-day1 intro, discuss & process data
- (1 morning / afternoon,  separate for each database  )
+##day1 intro, discuss & process data
+(1 morning / afternoon,  separate for each database  )
 Welcome & introduction
 goal of the workshop
 workshop schedule
@@ -27,13 +27,13 @@ data-type
 discussion / evaluation
 closing
  
-day2 Q&A 
+##day2 Q&A 
 (1 morning / afternoon , few days later)
 Welcome & introduction
 questions / discussions / trouble shootings
 closing
 
-day3 Evaluation  
+##day3 Evaluation  
 (1 morning / afternoon, 1 week later)
 Welcome & introduction
 quick walkthrough of day 1 
@@ -46,7 +46,7 @@ closing
 
 
 
-Workshops for databases:
+##Workshops for databases:
 
 European Nucleotide Archive: https://www.ebi.ac.uk/ena/browser/home
 https://www.ebi.ac.uk/training/online/courses/ena-quick-tour/
