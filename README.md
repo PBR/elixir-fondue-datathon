@@ -8,5 +8,5 @@ Workshops for databases:
 * European Variation Archive: https://www.ebi.ac.uk/eva/
 
 ## Program
-* [day 1 - intro, discuss & process data](program/day1.md)
-* [day 2 - evaluation](program/day2.md)
+* Day 1 - [intro, discuss & process data](program/day1.md)
+* Day 2 - [evaluation](program/day2.md)
