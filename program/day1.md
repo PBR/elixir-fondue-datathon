@@ -1,5 +1,5 @@
 
-<img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/logo_elixir.png" width="200">
+<img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/logo_elixir.png" width="100">
 
 # day1 intro, discuss & process data
 (1 morning / afternoon,  separate for each database  )
