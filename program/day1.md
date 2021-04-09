@@ -14,8 +14,8 @@
 ### guest speaker 1 (__ELIXIR__) (10 minutes)
 * FONDUE - FAIR-ification of Plant Genotyping Data and its linking to Phenotyping using ELIXIR Platforms
 ***
+<img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/BioSamples.png" width="300">
 
-<img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/BioSamples.png" width="400">
 ### guest speaker 2 (__BIOSAMPLES__) (30 minutes)
 * introduction on BIOSAMPLES
 * plant ontology
@@ -34,6 +34,8 @@
 ***
 #### short break (15 minutes)
 ***
+<img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/BioSamples.png" width="300">
+
 ### guest speaker 3, __European Nucleotide Archive__ (__ENA__) (30 minutes)
 * introduction on the ENA
 * determine workflow
@@ -52,6 +54,8 @@
 ***
 #### short break (15 minutes)
 ***
+<img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/eva.png" width="300">
+
 ### guest speaker 4, __European Variation Archive__ (EVA)
 * introduction on the EVA
 * determine workflow
