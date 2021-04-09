@@ -10,10 +10,10 @@
 * workshop schedule / agenda
 * create user-accounts
 * show/use test-server 
-
+***
 ### guest speaker 1 (__ELIXIR__) (10 minutes)
 * FONDUE - FAIR-ification of Plant Genotyping Data and its linking to Phenotyping using ELIXIR Platforms
-
+***
 ### guest speaker 2 (__BIOSAMPLES__) (30 minutes)
 * introduction on BIOSAMPLES
 * plant ontology
@@ -29,7 +29,7 @@
 * check & validate data workshop attendees
 * discussion / evaluation
 * finishing
-
+***
 #### short break (15 minutes)
 ***
 ### guest speaker 3, __European Nucleotide Archive__ (__ENA__) (30 minutes)
@@ -47,7 +47,7 @@
 * check & validate data workshop attendees
 * discussion / evaluation
 * finishing 
-
+***
 #### short break (15 minutes)
 ***
 ### guest speaker 4, __European Variation Archive__ (EVA)
@@ -64,7 +64,7 @@
 * check & validate data workshop attendees
 * discussion / evaluation
 * finishing 
-
+***
 ### CLosing day1 (Martijn/Matthijs) (15-30 minutes)
 * discussion / evaluation
 * closing
