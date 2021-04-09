@@ -1,3 +1,5 @@
+<img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/logo_elixir.png" width="100">
+
 ## Welcome (Martijn/Matthijs)
 * quick walkthrough of day 1 
 * discuss the different databases
