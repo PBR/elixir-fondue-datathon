@@ -8,7 +8,7 @@
 * Welcome & introduction
 * quick introduction round of all attendees
 * workshop schedule / agenda
-* create user-accounts
+* [create user-accounts](https://ena-docs.readthedocs.io/en/latest/submit/general-guide/registration.html)
 * show/use test-server 
 ***
 ### guest speaker 1 (__ELIXIR__) (10 minutes)
