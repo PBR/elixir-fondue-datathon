@@ -1,5 +1,7 @@
 # ELIXIR FONDUE Datathon 
 
+<img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/logo_elixir.png" width="100">
+
 Outline workshop data submission EBI
 
 ## Program
