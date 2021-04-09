@@ -1,10 +1,13 @@
-##  day2 Evaluation  
-(1 morning / afternoon, 1 week later)
-* Welcome & introduction
+## Welcome (Martijn/Matthijs)
 * quick walkthrough of day 1 
-* data-type(s)
+* discuss the different databases
+* ***
+- BIOSAMPLES
+- European Nucleotide Archive (ENA)
+- European Variantion Archive (EVA)
+***
 * test experiment, biosample & data descriptions
 * submission details
-* walkthrough & summarize discussions of day 2
+* walkthrough & summarize discussions day1
 * evaluation - tips & comments
 * closing
