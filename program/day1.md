@@ -24,7 +24,8 @@
 * submitting test data
 * show/use test-server 
 
-### Submitting data to __BIOSAMPLES__ (_supervision BIOSAMPLES expert_)
+### Submitting data to __BIOSAMPLES__ (30-60 minutes)
+##### (*supervisor BIOSAMPLES expert*)
 * check & validate data workshop attendees
 * discussion / evaluation
 * finishing
@@ -41,11 +42,29 @@
 * show/use test-server 
 * CLI and interactive submission
 
-### Submitting data to ENA (_supervision ENA expert_)
+### Submitting data to __ENA__ (30-60 minutes)
+##### (_supervisor ENA expert_)
 * check & validate data workshop attendees
 * discussion / evaluation
 * finishing 
 
 #### short break (15 minutes)
 ***
-### guest speaker 4, European Variation Archive (EVA)
+### guest speaker 4, __European Variation Archive__ (EVA)
+* introduction on the EVA
+* determine workflow
+* describe / validate test-data 
+* experiment (meta)-data
+* sample metadata
+* submitting test data
+* show/use test-server 
+
+### Submitting data to __EVA__ (30-60 minutes)
+##### (_supervisor EVA expert_)
+* check & validate data workshop attendees
+* discussion / evaluation
+* finishing 
+
+### CLosing day1 (Martijn/Matthijs) (15-30 minutes)
+* discussion / evaluation
+* closing
