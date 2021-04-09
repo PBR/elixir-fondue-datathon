@@ -56,7 +56,7 @@
 ***
 <img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/eva.png" width="300">
 
-### guest speaker 4, __European Variation Archive__ (EVA)
+### guest speaker 4, __European Variation Archive__ (EVA) (30 minutes)
 * introduction on the EVA
 * determine workflow
 * describe / validate test-data 
