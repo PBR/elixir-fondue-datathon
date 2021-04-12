@@ -1,15 +1,13 @@
 <img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/logo_elixir.png" width="100">
 
 ## Welcome (Martijn/Matthijs)
-* quick walkthrough of day 1 
-* discuss the different databases
+* walkthrough of day 1 
+* For each database, walk through the submission steps of day1 / interactive discussion with users
 * ***
-- BIOSAMPLES
-- European Nucleotide Archive (ENA)
-- European Variantion Archive (EVA)
+- BIOSAMPLES (__expert speaker BIOSAMPLES__)
+- European Nucleotide Archive (ENA) (__expert speaker ENA__)
+- European Variantion Archive (EVA) (__expert speaker EVA__)
 ***
-* test experiment, biosample & data descriptions
-* submission details
-* walkthrough & summarize discussions day1
+## Discussion:
 * evaluation - tips & comments
 * closing
