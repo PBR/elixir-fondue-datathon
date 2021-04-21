@@ -14,11 +14,12 @@ Outline workshop data submission EBI
 
 * Follow up - Thursday, 17 June 2021
   
-  * ...
+  * [Questions](../../issues)
 
 * [Day 2 - Monday, 21 June 2021](program/day2.md)
 
   * Welcome
+  * [Questions](../../issues)
   * Evaluation
 
 ---
