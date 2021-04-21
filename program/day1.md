@@ -72,6 +72,6 @@
 * Discussion / evaluation
 * Dinishing 
 ***
-### Closing day1 (Martijn/Matthijs) (15-30 minutes)
+### Closing day 1 (Martijn/Matthijs) (15-30 minutes)
 * Discussion / evaluation
 * Closing
