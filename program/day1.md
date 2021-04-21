@@ -1,5 +1,5 @@
 
-<img src="images/logo_elixir.png" width="100">
+<img src="../images/logo_elixir.png" width="100">
 
 # Day 1 - Tuesday, 15 June 2021
 ## introduction; processing, validating and submitting data
