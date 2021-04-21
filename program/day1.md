@@ -1,76 +1,77 @@
 
-<img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/logo_elixir.png" width="100">
+<img src="images/logo_elixir.png" width="100">
 
-# day1 introduction, process, validate and submit data
-(1 morning / afternoon,  separate for each database  )
+# Day 1 - Tuesday, 15 June 2021
+## introduction; processing, validating and submitting data
+
 
 ### Martijn/Matthijs (30 minutes)
 * Welcome & introduction
-* quick introduction round of all attendees
-* workshop schedule / agenda
+* Quick introduction round of all attendees
+* Workshop schedule / agenda
 * [create user-accounts](https://ena-docs.readthedocs.io/en/latest/submit/general-guide/registration.html)
 
 ***
-### guest speaker 1 (__ELIXIR__) (10 minutes)
+### Guest speaker 1 (__ELIXIR__) (10 minutes)
 * FONDUE - FAIR-ification of Plant Genotyping Data and its linking to Phenotyping using ELIXIR Platforms
 ***
-<img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/BioSamples.png" width="200">
+<img src="images/BioSamples.png" width="200">
 
-### guest speaker 2 (__BIOSAMPLES__) (30 minutes)
-* introduction on BIOSAMPLES
-* plant ontology
+### Guest speaker 2 (__BIOSAMPLES__) (30 minutes)
+* Introduction on BIOSAMPLES
+* Plant ontology
 * MIAPPE
-* describe / validate test-data
-* experiment (meta)-data
-* sample metadata
-* submitting test data
-* show/use test-server 
+* Describe / validate test-data
+* Experiment (meta)-data
+* Sample metadata
+* Submitting test data
+* Show/use test-server 
 
 ### Submitting data to __BIOSAMPLES__ (30-60 minutes)
 ##### (*supervisor BIOSAMPLES expert*)
-* check & validate data workshop attendees
-* discussion / evaluation
-* finishing
+* Check & validate data workshop attendees
+* Discussion / evaluation
+* Finishing
 ***
-#### short break (15 minutes)
+#### Short break (15 minutes)
 ***
-<img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/embl_ebi.png" width="200">
+<img src="images/embl_ebi.png" width="200">
 
-### guest speaker 3, __European Nucleotide Archive__ (__ENA__) (30 minutes)
-* introduction on the ENA
-* determine workflow
-* describe / validate test-data 
-* experiment (meta)-data
-* sample metadata
-* submitting test data
-* show/use test-server 
+### Guest speaker 3, __European Nucleotide Archive__ (__ENA__) (30 minutes)
+* Introduction on the ENA
+* Determine workflow
+* Describe / validate test-data 
+* Experiment (meta)-data
+* Sample metadata
+* Submitting test data
+* Show/use test-server 
 * CLI and interactive submission
 
 ### Submitting data to __ENA__ (30-60 minutes)
 ##### (_supervisor ENA expert_)
-* check & validate data workshop attendees
-* discussion / evaluation
-* finishing 
+* Check & validate data workshop attendees
+* Discussion / evaluation
+* Finishing 
 ***
 #### short break (15 minutes)
 ***
-<img src="https://github.com/PBR/elixir-fondue-datathon/blob/master/images/eva.png" width="300">
+<img src="images/eva.png" width="300">
 
-### guest speaker 4, __European Variation Archive__ (EVA) (30 minutes)
-* introduction on the EVA
-* determine workflow
-* describe / validate test-data 
-* experiment (meta)-data
-* sample metadata
-* submitting test data
-* show/use test-server 
+### Guest speaker 4, __European Variation Archive__ (EVA) (30 minutes)
+* Introduction on the EVA
+* Determine workflow
+* Describe / validate test-data 
+* Experiment (meta)-data
+* Sample metadata
+* Submitting test data
+* Show/use test-server 
 
 ### Submitting data to __EVA__ (30-60 minutes)
 ##### (_supervisor EVA expert_)
-* check & validate data workshop attendees
-* discussion / evaluation
-* finishing 
+* Check & validate data workshop attendees
+* Discussion / evaluation
+* Dinishing 
 ***
-### CLosing day1 (Martijn/Matthijs) (15-30 minutes)
-* discussion / evaluation
-* closing
+### Closing day1 (Martijn/Matthijs) (15-30 minutes)
+* Discussion / evaluation
+* Closing
