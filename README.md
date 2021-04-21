@@ -7,13 +7,17 @@ Outline workshop data submission EBI
 ## Program
 * [Day 1 - Tuesday, 15 June 2021](program/day1.md)
 
-  intro, discuss & process data
-  
-* [Follow up - Thursday, 17 June 2021](program/followup.md)
-  
+  * Introduction
+  * BioSamples
+  * European Nucleotide Archive
+  * European Variation Archive
+
 * [Day 2 - Monday, 21 June 2021](program/day2.md)
 
-  evaluation
+  * Welcome
+  * Evaluation
+  
+Available for questions in [Follow up on Thursday, 17 June 2021](program/followup.md)
 
 Workshops for databases:
 
