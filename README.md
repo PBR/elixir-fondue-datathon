@@ -12,7 +12,7 @@ Outline workshop data submission EBI
   * European Nucleotide Archive
   * European Variation Archive
 
-* [Follow up - Thursday, 17 June 2021](program/followup.md)
+* Follow up - Thursday, 17 June 2021
   
   * ...
 
