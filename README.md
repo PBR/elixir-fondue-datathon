@@ -14,8 +14,6 @@ Workshops for databases:
 * BIOsamples: https://www.ebi.ac.uk/biosamples/
 * European Variation Archive: https://www.ebi.ac.uk/eva/
 
-Subscribe before ...
+You can <a href="https://forms.gle/uSA4kMX5GnG4L9E46" target="_blank" alt="subscribe" title="subscribe">subscribe</a> to this workship until **\[end-date subscription\]**
 
-<a href="https://forms.gle/uSA4kMX5GnG4L9E46"><img src="images/subscribe.png" width="100"/></a>
-.
-
+<a href="https://forms.gle/uSA4kMX5GnG4L9E46" target="_blank" alt="subscribe" title="subscribe"><img src="images/subscribe.png" width="150"/></a>
