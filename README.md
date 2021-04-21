@@ -21,7 +21,7 @@ Outline workshop data submission EBI
   * Welcome
   * Evaluation
 
-
+---
 
 You can [subscribe](https://forms.gle/uSA4kMX5GnG4L9E46) to this workship until **\[end-date subscription\]**
 
