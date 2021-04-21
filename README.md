@@ -12,19 +12,19 @@ Outline workshop data submission EBI
   * European Nucleotide Archive
   * European Variation Archive
 
+* [Follow up - Thursday, 17 June 2021](program/followup.md)
+  
+  * ...
+
 * [Day 2 - Monday, 21 June 2021](program/day2.md)
 
   * Welcome
   * Evaluation
-  
-Available for questions in [Follow up on Thursday, 17 June 2021](program/followup.md)
 
-Workshops for databases:
 
-* European Nucleotide Archive: https://www.ebi.ac.uk/ena/browser/home
-* BIOsamples: https://www.ebi.ac.uk/biosamples/
-* European Variation Archive: https://www.ebi.ac.uk/eva/
 
 You can [subscribe](https://forms.gle/uSA4kMX5GnG4L9E46) to this workship until **\[end-date subscription\]**
 
 <a href="https://forms.gle/uSA4kMX5GnG4L9E46" alt="subscribe" title="subscribe"><img src="images/subscribe.png" width="150"/></a>
+
+More on data submission to these databases can be found [here](program/links.md)
