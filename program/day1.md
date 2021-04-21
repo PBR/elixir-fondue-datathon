@@ -12,8 +12,10 @@
 * [create user-accounts](https://ena-docs.readthedocs.io/en/latest/submit/general-guide/registration.html)
 
 ***
-### Guest speaker 1 (__ELIXIR__) (10 minutes)
+### Guest speaker 1 (__ELIXIR__) (10-20 minutes)
 * FONDUE - FAIR-ification of Plant Genotyping Data and its linking to Phenotyping using ELIXIR Platforms
+* Bad examples
+* Workflow proposal
 ***
 <img src="../images/BioSamples.png" width="200">
 
