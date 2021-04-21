@@ -18,7 +18,7 @@ Outline workshop data submission EBI
 
 * [Day 2 - Monday, 21 June 2021](program/day2.md)
 
-  * Evaluation
+  * Evaluation and discussion
 
 ---
 
