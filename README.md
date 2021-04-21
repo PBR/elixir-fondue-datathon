@@ -8,9 +8,9 @@ Outline workshop data submission EBI
 * [Day 1 - Tuesday, 15 June 2021](program/day1.md)
 
   * Introduction
-  * BioSamples
-  * European Nucleotide Archive
-  * European Variation Archive
+  * Submission to BioSamples
+  * Submission to European Nucleotide Archive (ENA)
+  * Submission to European Variation Archive (EVA)
 
 * Follow up - Thursday, 17 June 2021
   
