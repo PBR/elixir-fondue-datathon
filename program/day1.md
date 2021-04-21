@@ -16,13 +16,13 @@
 * FONDUE - FAIR-ification of Plant Genotyping Data and its linking to Phenotyping using ELIXIR Platforms
 * Bad examples
 * Workflow proposal
+* Ontology lookup (Plant-centric)
+* MIAPPE
 ***
 <img src="../images/BioSamples.png" width="200">
 
 ### Guest speaker 2 (__BIOSAMPLES__) (30 minutes)
 * Introduction on BIOSAMPLES
-* Plant ontology
-* MIAPPE
 * Describe / validate test-data
 * Experiment (meta)-data
 * Sample metadata
