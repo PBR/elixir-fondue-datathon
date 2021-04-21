@@ -15,7 +15,7 @@
 ### Guest speaker 1 (__ELIXIR__) (10 minutes)
 * FONDUE - FAIR-ification of Plant Genotyping Data and its linking to Phenotyping using ELIXIR Platforms
 ***
-<img src="images/BioSamples.png" width="200">
+<img src="../images/BioSamples.png" width="200">
 
 ### Guest speaker 2 (__BIOSAMPLES__) (30 minutes)
 * Introduction on BIOSAMPLES
@@ -35,7 +35,7 @@
 ***
 #### Short break (15 minutes)
 ***
-<img src="images/embl_ebi.png" width="200">
+<img src="../images/embl_ebi.png" width="200">
 
 ### Guest speaker 3, __European Nucleotide Archive__ (__ENA__) (30 minutes)
 * Introduction on the ENA
@@ -55,7 +55,7 @@
 ***
 #### short break (15 minutes)
 ***
-<img src="images/eva.png" width="300">
+<img src="../images/eva.png" width="300">
 
 ### Guest speaker 4, __European Variation Archive__ (EVA) (30 minutes)
 * Introduction on the EVA
