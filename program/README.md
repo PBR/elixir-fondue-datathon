@@ -1,6 +1,6 @@
 # ELIXIR FONDUE Datathon 
 
-<img src="images/logo_elixir.png" width="100"/>
+<img align="right" src="images/logo_elixir.png" width="100"/>
 
 ## Program
 * [Day 1 - Tuesday, 15 June 2021](day_1.md)
