@@ -1,6 +1,6 @@
 # ELIXIR FONDUE Datathon 
 
-<img src="program/images/logo_elixir.png" width="100"/>
+<img align="right" src="program/images/logo_elixir.png" width="100"/>
 
 ### Tuesday 15, Monday 21 and Monday 28 June 2021
 See the [program](program/) for this workshop on data submission to EBI
