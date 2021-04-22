@@ -5,6 +5,7 @@
 Workshop on data submission to EBI
 * Introduction Elixir Fondue
 * Workshop on submission to 
+
   - BioSamples
   - European Nucleotide Archive (ENA)
   - European Variation Archive (EVA).
