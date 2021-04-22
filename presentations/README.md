@@ -1,7 +1,7 @@
 
 # ELIXIR FONDUE Datathon 
 
-<img align="right" src="images/logo_elixir.png" width="100"/>
+<img align="right" src="program/images/logo_elixir.png" width="100"/>
 
 Presentations overview
 
