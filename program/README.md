@@ -1,3 +1,3 @@
 # ELIXIR FONDUE Datathon 
 
-<img src="../images/logo_elixir.png" width="100"/>
+<img src="images/logo_elixir.png" width="100"/>
