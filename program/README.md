@@ -2,6 +2,8 @@
 
 <img align="right" src="images/logo_elixir.png" width="100"/>
 
+Workshop on data submission to EBI
+
 ## Program
 * [Day 1 - Tuesday, 15 June 2021](day_1.md)
 
