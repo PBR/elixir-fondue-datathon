@@ -1,12 +1,12 @@
 
-<img src="../images/logo_elixir.png" width="100">
+<img src="images/logo_elixir.png" width="100">
 
 # Day 1 - Tuesday, 15 June 2021
 ## introduction; processing, validating and submitting data
 
 
-### Martijn/Matthijs (30 minutes)
-* Welcome & introduction
+### Welcome & introduction (10 minutes)
+*Martijn van Kaauwen (WUR, Wageningen) / Matthijs Brouwer (WUR, Wageningen)*
 * Quick introduction round of all attendees
 * Workshop schedule / agenda
 * [create user-accounts](https://ena-docs.readthedocs.io/en/latest/submit/general-guide/registration.html)
@@ -19,7 +19,7 @@
 * Ontology lookup (Plant-centric)
 * MIAPPE
 ***
-<img src="../images/BioSamples.png" width="200">
+<img src="images/BioSamples.png" width="200">
 
 ### Guest speaker 2 (__BIOSAMPLES__) (30 minutes)
 * Introduction on BIOSAMPLES
@@ -37,7 +37,7 @@
 ***
 #### Short break (15 minutes)
 ***
-<img src="../images/embl_ebi.png" width="200">
+<img src="images/embl_ebi.png" width="200">
 
 ### Guest speaker 3, __European Nucleotide Archive__ (__ENA__) (30 minutes)
 * Introduction on the ENA
@@ -57,7 +57,7 @@
 ***
 #### short break (15 minutes)
 ***
-<img src="../images/eva.png" width="300">
+<img src="images/eva.png" width="300">
 
 ### Guest speaker 4, __European Variation Archive__ (EVA) (30 minutes)
 * Introduction on the EVA

@@ -1,6 +1,6 @@
 # ELIXIR FONDUE Datathon 
 
-<img src="images/logo_elixir.png" width="100"/>
+<img src="program/images/logo_elixir.png" width="100"/>
 
 Outline workshop data submission EBI
 

@@ -1,4 +1,4 @@
-<img src="../images/logo_elixir.png" width="100">
+<img src="images/logo_elixir.png" width="100">
 
 # Day 2 - Monday, 21 June 2021
 ## evaluation and discussion
