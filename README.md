@@ -4,7 +4,7 @@
 ### Tuesday 15, Monday 21 and Monday 28 June 2021
 Workshop on data submission to EBI
 * Introduction Elixir Fondue
-* Introduction and Submission to 
+* Workshop on submission to 
   - BioSamples
   - European Nucleotide Archive (ENA)
   - European Variation Archive (EVA).
