@@ -8,7 +8,7 @@ Workshop on data submission to EBI
 
   - BioSamples
   - European Nucleotide Archive (ENA)
-  - European Variation Archive (EVA).
+  - European Variation Archive (EVA)
 
 See the full [program](program/) for more details.
 
