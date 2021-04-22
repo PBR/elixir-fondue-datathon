@@ -2,23 +2,8 @@
 
 <img src="program/images/logo_elixir.png" width="100"/>
 
-Outline workshop data submission EBI
+Workshop data submission EBI
 
-## Program
-* [Day 1 - Tuesday, 15 June 2021](program/day1.md)
-
-  * Introduction Elixir Fondue
-  * Submission to BioSamples
-  * Submission to European Nucleotide Archive (ENA)
-  * Submission to European Variation Archive (EVA)
-
-* Follow up - Thursday, 17 June 2021
-  
-  * [Questions](../../issues)
-
-* [Day 2 - Monday, 21 June 2021](program/day2.md)
-
-  * Evaluation and discussion
 
 ---
 
