@@ -9,7 +9,7 @@
 * Walkthrough of day 1 
 * For each database, walk through the submission steps of day 1 / interactive discussion with users
 * ***
-- BIOSAMPLES (__expert speaker BIOSAMPLES__)
+- BioSamples (__expert speaker BioSamples__)
 - European Nucleotide Archive (ENA) (__expert speaker ENA__)
 - European Variantion Archive (EVA) (__expert speaker EVA__)
 ***
