@@ -21,7 +21,8 @@
 ***
 <img src="images/BioSamples.png" width="200">
 
-### Guest speaker 2 (__BIOSAMPLES__) (30 minutes)
+### (__BIOSAMPLES__) (30 minutes)
+*Fuqi Xu (EBI BioSamples)*
 * Introduction on BIOSAMPLES
 * Describe / validate test-data
 * Experiment (meta)-data
@@ -30,7 +31,7 @@
 * Show/use test-server 
 
 ### Submitting data to __BIOSAMPLES__ (30-60 minutes)
-##### (*supervisor BIOSAMPLES expert*)
+*Isuru Liyanage (EBI BioSamples)*
 * Check & validate data workshop attendees
 * Discussion / evaluation
 * Finishing
@@ -39,7 +40,8 @@
 ***
 <img src="images/embl_ebi.png" width="200">
 
-### Guest speaker 3, __European Nucleotide Archive__ (__ENA__) (30 minutes)
+###  __European Nucleotide Archive__ (__ENA__) (30 minutes)
+*Sam Holt (EBI ENA)*
 * Introduction on the ENA
 * Determine workflow
 * Describe / validate test-data 
@@ -59,7 +61,8 @@
 ***
 <img src="images/eva.png" width="300">
 
-### Guest speaker 4, __European Variation Archive__ (EVA) (30 minutes)
+###  __European Variation Archive__ (EVA) (30 minutes)
+*Baron Koylass (EBI EVA)*
 * Introduction on the EVA
 * Determine workflow
 * Describe / validate test-data 
