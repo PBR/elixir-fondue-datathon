@@ -5,17 +5,25 @@
 
 
 
-### Welcome (Martijn/Matthijs)
-* Walkthrough of day 1 
-* For each database, walk through the submission steps of day 1 / interactive discussion with users
-* ***
-- BioSamples (__expert speaker BioSamples__)
-- European Nucleotide Archive (ENA) (__expert speaker ENA__)
-- European Variantion Archive (EVA) (__expert speaker EVA__)
-***
-<img src="images/eva.png" width="300">
+### 10:00 - 10:10 : Welcome & introduction
+*Martijn van Kaauwen (WUR, Wageningen) / Matthijs Brouwer (WUR, Wageningen)*
 
-###  Lecture about __European Variation Archive__ (EVA) (30 minutes)
+---
+
+### [time] : Evalution submitting own data to BioSamples and ENA
+##### (_expert_)
+
+---
+
+### [time] : Ontologies
+##### (_expert_)
+
+
+---
+
+<img align="right" src="images/eva.png" width="300">
+
+###  [time] : Lecture about __European Variation Archive__ (EVA)
 *Baron Koylass (EBI EVA)*
 * Introduction to EVA
 * Determine workflow
@@ -25,13 +33,16 @@
 * Submitting test data
 * Show/use test-server 
 
-### Submitting data to __EVA__ (30-60 minutes)
+### [time] : Submitting data to __EVA__ 
 ##### (_supervisor EVA expert_)
 * Check & validate data workshop attendees
 * Discussion / evaluation
-* Dinishing 
-***
+* Finishing 
 
-### Discussion:
-* Evaluation - tips & comments
+---
+
+### [time] Closing day 2
+*Martijn van Kaauwen (WUR, Wageningen) / Matthijs Brouwer (WUR, Wageningen)*
+* Discussion / evaluation
 * Closing
+
