@@ -5,7 +5,7 @@
 ## introduction; processing, validating and submitting data
 
 
-### Welcome & introduction (10 minutes)
+### 10:00 - 10:10 : Welcome & introduction
 *Martijn van Kaauwen (WUR, Wageningen) / Matthijs Brouwer (WUR, Wageningen)*
 - Quick introduction round of all attendees
 - Workshop schedule / agenda
@@ -15,7 +15,7 @@
 
 <img align="right" src="images/logo_elixir.png" width="100">
 
-### Guest speaker 1 (__ELIXIR__) (10-20 minutes)
+### 10:10 - 10:30 : Guest speaker 1 (__ELIXIR__)
 - FONDUE - FAIR-ification of Plant Genotyping Data and its linking to Phenotyping using ELIXIR Platforms
 - Bad examples
 - Workflow proposal
@@ -26,7 +26,7 @@
 
 <img align="right" src="images/BioSamples.png" width="200">
 
-### Lecture about __BioSamples__ (30 minutes)
+### 10:30 - 11:00 : Lecture about __BioSamples__
 *Fuqi Xu (EBI BioSamples)*
 - Introduction to BioSamples
 - Describe / validate test-data
@@ -35,7 +35,7 @@
 - Submitting test data
 - Show/use test-server 
 
-### Submitting data to __BioSamples__ (30-60 minutes)
+### 11:00 - 11:30 : Submitting data to __BioSamples__
 *Isuru Liyanage (EBI BioSamples)*
 - Check & validate data workshop attendees
 - Discussion / evaluation
@@ -43,13 +43,13 @@
 
 ---
 
-#### Short break (15 minutes)
+#### 11:30 - 11:45 : Short break
 
 ---
 
 <img align="right" src="images/embl_ebi.png" width="200">
 
-###  Lecture about __European Nucleotide Archive__ (__ENA__) (30 minutes)
+###  11:45 - 12:15 : Lecture about __European Nucleotide Archive__ (__ENA__)
 *Sam Holt (EBI ENA)*
 - Introduction to ENA
 - Determine workflow
@@ -60,7 +60,7 @@
 - Show/use test-server 
 - CLI and interactive submission
 
-### Submitting data to __ENA__ (30-60 minutes)
+### 12:15 - 12:45 Submitting data to __ENA__
 ##### (_supervisor ENA expert_)
 - Check & validate data workshop attendees
 - Discussion / evaluation
@@ -68,7 +68,7 @@
 
 ---
 
-### Closing day 1 (15-30 minutes)
+### 12:45 - 13:00 Closing day 1
 *Martijn van Kaauwen (WUR, Wageningen) / Matthijs Brouwer (WUR, Wageningen)*
 * Discussion / evaluation
 * Closing
