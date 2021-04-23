@@ -21,16 +21,16 @@
 ***
 <img src="images/BioSamples.png" width="200">
 
-### (__BIOSAMPLES__) (30 minutes)
+### Lecture about __BioSamples__ (30 minutes)
 *Fuqi Xu (EBI BioSamples)*
-* Introduction on BIOSAMPLES
+* Introduction to BioSamples
 * Describe / validate test-data
 * Experiment (meta)-data
 * Sample metadata
 * Submitting test data
 * Show/use test-server 
 
-### Submitting data to __BIOSAMPLES__ (30-60 minutes)
+### Submitting data to __BioSamples__ (30-60 minutes)
 *Isuru Liyanage (EBI BioSamples)*
 * Check & validate data workshop attendees
 * Discussion / evaluation
@@ -40,9 +40,9 @@
 ***
 <img src="images/embl_ebi.png" width="200">
 
-###  __European Nucleotide Archive__ (__ENA__) (30 minutes)
+###  Lecture about __European Nucleotide Archive__ (__ENA__) (30 minutes)
 *Sam Holt (EBI ENA)*
-* Introduction on the ENA
+* Introduction to ENA
 * Determine workflow
 * Describe / validate test-data 
 * Experiment (meta)-data
@@ -57,26 +57,7 @@
 * Discussion / evaluation
 * Finishing 
 ***
-#### short break (15 minutes)
-***
-<img src="images/eva.png" width="300">
 
-###  __European Variation Archive__ (EVA) (30 minutes)
-*Baron Koylass (EBI EVA)*
-* Introduction on the EVA
-* Determine workflow
-* Describe / validate test-data 
-* Experiment (meta)-data
-* Sample metadata
-* Submitting test data
-* Show/use test-server 
-
-### Submitting data to __EVA__ (30-60 minutes)
-##### (_supervisor EVA expert_)
-* Check & validate data workshop attendees
-* Discussion / evaluation
-* Dinishing 
-***
 ### Closing day 1 (Martijn/Matthijs) (15-30 minutes)
 * Discussion / evaluation
 * Closing
