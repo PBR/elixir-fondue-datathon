@@ -11,6 +11,7 @@
 - Workshop schedule / agenda
 - [create user-accounts](https://ena-docs.readthedocs.io/en/latest/submit/general-guide/registration.html)
 
+---
 
 <img align="right" src="images/logo_elixir.png" width="100">
 
@@ -20,6 +21,8 @@
 - Workflow proposal
 - Ontology lookup (Plant-centric)
 - MIAPPE
+
+---
 
 <img align="right" src="images/BioSamples.png" width="200">
 
@@ -38,7 +41,11 @@
 - Discussion / evaluation
 - Finishing
 
+---
+
 #### Short break (15 minutes)
+
+---
 
 <img align="right" src="images/embl_ebi.png" width="200">
 
@@ -58,6 +65,8 @@
 - Check & validate data workshop attendees
 - Discussion / evaluation
 - Finishing 
+
+---
 
 ### Closing day 1 (15-30 minutes)
 *Martijn van Kaauwen (WUR, Wageningen) / Matthijs Brouwer (WUR, Wageningen)*
