@@ -5,22 +5,27 @@
 Workshop on data submission to EBI
 
 ## Program
-* [Day 1 - Tuesday, 15 June 2021](day_1.md)
+
+* [Day 1 - Tuesday, 15 June 2021, 10:00 - 13:00 (CEST)](day_1.md)
 
   * Introduction Elixir Fondue
   * BioSamples: introduction, submission data
   * European Nucleotide Archive (ENA): introduction, submission data
   
+* In period 15 June - 21 June: submit your own data to Biosamples and ENA
 
-* [Day 2 - Monday, 21 June 2021](day_2.md)
+  * Use the [Issues](../../../issues) section for questions
+
+* [Day 2 - Monday, 21 June 2021, 10:00 - 13:00 (CEST)](day_2.md)
 
   * European Variation Archive (EVA): introduction, submission data
 
-* [Day 3 - Monday, 28 June 2021](day_3.md)
+* In period 21 June - 28 June: submit your own data to EVA
+
+ * Use the [Issues](../../../issues) section for questions
+
+* [Day 3 - Monday, 28 June 2021, 10:00 - 13:00 (CEST)](day_3.md)
 
   * Evaluation and discussion
-
-## Questions
-* Use the [Issues](../../../issues) section for questions
 
 
