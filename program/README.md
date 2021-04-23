@@ -12,7 +12,7 @@ Workshop on data submission to EBI
   * BioSamples: introduction, submission data
   * European Nucleotide Archive (ENA): introduction, submission data
   
-* In period 15 June - 21 June: submit your own data to Biosamples and ENA
+* *15 June - 21 June*: try to submit your own data to Biosamples and ENA
 
   * Use the [Issues](../../../issues) section for questions
 
@@ -20,7 +20,7 @@ Workshop on data submission to EBI
 
   * European Variation Archive (EVA): introduction, submission data
 
-* In period 21 June - 28 June: submit your own data to EVA
+* *21 June - 28 June*: try to submit your own data to EVA
 
  * Use the [Issues](../../../issues) section for questions
 
