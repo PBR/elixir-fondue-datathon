@@ -24,7 +24,7 @@ Workshop on data submission to EBI
 * [Day 2 - Monday, 21 June 2021, 10:00 - 13:00 (CEST)](day_2.md)
 
   - Questions on submitting to BioSamples and ENA  
-  - ...
+  - Use of proper Ontology / MIAPPE 
   - European Variation Archive (EVA): introduction, submission data
 
 ---
