@@ -1,0 +1,119 @@
+{
+"name": "HOR 3081 BRG",
+"domain": "self.BRIDGE_SSD_Test",
+"release": "2021-03-31T17:05:13Z",
+"characteristics":	{
+    "project name": [{
+	    "text": "BRIDGE SSD"
+	}],
+    "biological material ID": [{
+        "text": "GAT:HOR 3081 BRG"
+    }],
+    "organism": [{
+	    "text": "hordeum vulgare",
+		"ontologyTerms": [
+		    "http://purl.obolibrary.org/obo/NCBITaxon_4513"
+		]
+	}],
+    "genus": [{
+	    "text": "Hordeum"
+	}],
+    "species": [{
+	    "text": "vulgare"
+	}],
+    "infraspecific name": [{
+        "text": "Hordeum vulgare L. convar. vulgare var. hybernum Viborg"
+    }],
+    "ecotype": [{
+	    "text": ""
+	}],
+    "biological material latitude": [{
+		"text": "+51.816000"
+	}],
+    "biological material longitude": [{
+		"text": "+11.283000"
+	}],
+    "biological material altitude": [{
+	    "text": "112"
+	}],
+    "biological material coordinates uncertainty": [{
+	    "text": ""
+	}],
+    "biological material geographic location": [{
+	    "text": "Germany"
+	}],
+    "biological material preprocessing": [{
+	    "text": "SSD derived material from a single seed of a single plant belonging to accession GAT:HOR 3081"
+    }],
+    "material source ID": [{
+        "text": "EBI:SAMEA104646638"
+    },
+    {
+        "text": "GAT:HOR 3081"
+    }],
+    "material source DOI": [{
+        "text": "doi:10.25642/IPK/GBIS/19096"
+    }],
+    "material source latitude": [{
+        "text": ""
+    }],
+    "material source longitude": [{
+        "text": ""
+    }],
+    "material source altitude": [{
+	    "text": ""
+	}],
+    "material source coordinates uncertainty": [{
+	    "text": ""
+	}],
+    "material source description": [{
+        "text": ""
+    }],
+    "material source geographic location": [{
+        "text": "Poland"
+    }],
+    "biological material ploidy": [{
+	    "text": "diploid",
+		"ontologyTerms": [
+		    "http://purl.obolibrary.org/obo/PATO_0001394"
+		]
+	}],
+    "collected by": [{
+	    "text": ""
+	}],
+    "collection date": [{
+        "text": ""
+    }],
+    "sex": [{
+	    "text": ""
+	}],
+    "environment (biome)": [{
+	    "text": ""
+	}],
+    "plant structure development stage": [{
+	    "text": "LP.03 three leaves visible stage",
+		"ontologyTerms": [
+		    "http://purl.obolibrary.org/obo/PO_0007106"
+		]
+	}],
+    "plant anatomical entity": [{
+	    "text": "leaf",
+		"ontologyTerms": [
+		    "http://purl.obolibrary.org/obo/PO_0025034"
+		]
+	}],
+    "sample description": [{
+	    "text": "Individual plants were grown in a greenhouse for 2 weeks using Quickpot QP 96 T propagation trays (Hermann Meyer). Two leaf segments (each approximately 3 cm in length and 0.5 to 0.8 cm wide) were placed in a 96-well polypropylene cluster tube (1.2 ml, 8 tube stripe format; Corning) containing one 4 mm glass bead (ROTH). A second glass bead was placed on top, and the tube was closed with 8-cap tube strips (Heinemann Labortechnik). Samples were frozen in liquid nitrogen and stored at -80°C."
+	}],
+    "sample ID": [{
+        "text": "GAT_LIMS:981570"
+    }],
+    "environment parameter": [{
+	    "text": ""
+	}],
+    "environment parameter value": [{
+	    "text": ""
+	}]
+  }
+}
+
