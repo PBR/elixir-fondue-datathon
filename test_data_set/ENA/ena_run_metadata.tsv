@@ -1,0 +1,11 @@
+sample_alias	instrument_model	library_name	library_source	library_selection	library_strategy	design_description	library_construction_protocol	file_name	file_md5
+TODO:insert SAMEA ID from BioSamples	Illumina HiSeq 2500		GENOMIC	Restriction Digest	GBS			project_path/HOR_1361_BRG_subset1000.fastq.gz	cee41c4b8d3135da5ade9901b3394b62
+TODO:insert SAMEA ID from BioSamples	Illumina HiSeq 2500		GENOMIC	Restriction Digest	GBS			project_path/HOR_1531_BRG_subset1000.fastq.gz	7a983f5be98fb4ba0f91a4d7cf2a4df2
+TODO:insert SAMEA ID from BioSamples	Illumina HiSeq 2500		GENOMIC	Restriction Digest	GBS			project_path/HOR_2180_BRG_subset1000.fastq.gz	d0826ca8923bfba82e2a00e0b7c6b76b
+TODO:insert SAMEA ID from BioSamples	Illumina HiSeq 2500		GENOMIC	Restriction Digest	GBS			project_path/HOR_2237_BRG_subset1000.fastq.gz	69b48d2607595422195cbfed769bcdf3
+TODO:insert SAMEA ID from BioSamples	Illumina HiSeq 2500		GENOMIC	Restriction Digest	GBS			project_path/HOR_2957_BRG_subset1000.fastq.gz	f0aa746ebe6e198ceaee73bf41e55f7f
+TODO:insert SAMEA ID from BioSamples	Illumina HiSeq 2500		GENOMIC	Restriction Digest	GBS			project_path/HOR_3081_BRG_subset1000.fastq.gz	886676b90b09193866d2daa866b317fd
+TODO:insert SAMEA ID from BioSamples	Illumina HiSeq 2500		GENOMIC	Restriction Digest	GBS			project_path/HOR_337_BRG_subset1000.fastq.gz	b24ce042f9842e03fc817af20b8f282c
+TODO:insert SAMEA ID from BioSamples	Illumina HiSeq 2500		GENOMIC	Restriction Digest	GBS			project_path/HOR_495_BRG_subset1000.fastq.gz	7b0946a47a028194ae7f679a95653266
+TODO:insert SAMEA ID from BioSamples	Illumina HiSeq 2500		GENOMIC	Restriction Digest	GBS			project_path/HOR_610_BRG_subset1000.fastq.gz	6b339b7ae79f3af8a4306472602d7446
+TODO:insert SAMEA ID from BioSamples	Illumina HiSeq 2500		GENOMIC	Restriction Digest	GBS			project_path/HOR_997_BRG_subset1000.fastq.gz	3d29a5d63d1c21e30345dcc7a3156ae9
