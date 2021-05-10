@@ -13,6 +13,6 @@ Workshop on data submission to EBI
 See the full [program](program/) for more details.
 
 ### Registration
-You can [subscribe](https://forms.gle/uSA4kMX5GnG4L9E46) to this workship until **\[end-date subscription\]**
+You can [subscribe](https://forms.gle/uSA4kMX5GnG4L9E46) to this workship until **Thursday 10 June 2021**
 
 <a href="https://forms.gle/uSA4kMX5GnG4L9E46" alt="subscribe" title="subscribe"><img src="program/images/subscribe.png" width="150"/></a>
