@@ -16,7 +16,7 @@
 ---
 
 ### [time] : Ontologies
-##### (_expert_)
+*Cyril Pommier*
 
 
 ---
