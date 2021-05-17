@@ -18,6 +18,9 @@
 ### 10:40 - 11:20 : Ontologies
 *Cyril Pommier*
 
+---
+
+### 11:20 - 11:30 : Short break
 
 ---
 
