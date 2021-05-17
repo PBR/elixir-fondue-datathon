@@ -8,12 +8,12 @@
 
 ---
 
-### [time] : Evalution submitting own data to EVA
+### 10:10 - ... : Evalution submitting own data to EVA, ENA and BioSamples
 ##### (_expert_)
 
 ---
 
-### [time] Closing day 3
+### Closing day 3
 *Martijn van Kaauwen (WUR, Wageningen) / Matthijs Brouwer (WUR, Wageningen)*
 * Discussion / evaluation
 * Closing
