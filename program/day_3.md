@@ -9,7 +9,7 @@
 ---
 
 ### 10:10 - ... : Evalution submitting own data to EVA, ENA and BioSamples
-##### (_expert_)
+##### (_experts EVA/ENA/BioSamples_)
 
 ---
 
