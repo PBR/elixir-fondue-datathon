@@ -10,12 +10,12 @@
 
 ---
 
-### [time] : Evalution submitting own data to BioSamples and ENA
+### 10:10 - 10:40 : Evalution submitting own data to BioSamples and ENA
 ##### (_expert_)
 
 ---
 
-### [time] : Ontologies
+### 10:40 - 11:20 : Ontologies
 *Cyril Pommier*
 
 
@@ -23,7 +23,7 @@
 
 <img align="right" src="images/eva.png" width="300">
 
-###  [time] : Lecture about __European Variation Archive__ (EVA)
+###  11:30 - 12:00 : Lecture about __European Variation Archive__ (EVA)
 *Baron Koylass (EBI EVA)*
 * Introduction to EVA
 * Determine workflow
@@ -33,7 +33,7 @@
 * Submitting test data
 * Show/use test-server 
 
-### [time] : Submitting data to __EVA__ 
+### 12:00 - 12:30 : Submitting data to __EVA__ 
 ##### (_supervisor EVA expert_)
 * Check & validate data workshop attendees
 * Discussion / evaluation
@@ -41,7 +41,7 @@
 
 ---
 
-### [time] Closing day 2
+### 12:30 - 12:40 : Closing day 2
 *Martijn van Kaauwen (WUR, Wageningen) / Matthijs Brouwer (WUR, Wageningen)*
 * Discussion / evaluation
 * Closing
