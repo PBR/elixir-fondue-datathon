@@ -10,7 +10,7 @@
         "text": "GAT:HOR 337 BRG"
     }],
     "organism": [{
-	    "text": "hordeum vulgare",
+	    "text": "Hordeum vulgare",
 		"ontologyTerms": [
 		    "http://purl.obolibrary.org/obo/NCBITaxon_4513"
 		]
