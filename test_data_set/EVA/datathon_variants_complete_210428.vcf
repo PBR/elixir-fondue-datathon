@@ -3,13 +3,13 @@
 ##source=https://doi.org/10.1038/s41588-018-0266-x
 ##reference=GCA_902498975.1
 ##assembly=https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/498/975/GCA_902498975.1_Morex_v2.0/GCA_902498975.1_Morex_v2.0_genomic.fna.gz
-##contig=<ID=chr1H,length=522466905,assembly=GCA_902498975.1,md5=f45dce256cdb8a74fa3e49e3430d2a2c,species="Hordeum vulgare">
-##contig=<ID=chr2H,length=675310294,assembly=GCA_902498975.1,md5=f45dce256cdb8a74fa3e49e3430d2a2c,species="Hordeum vulgare">
-##contig=<ID=chr3H,length=628753756,assembly=GCA_902498975.1,md5=f45dce256cdb8a74fa3e49e3430d2a2c,species="Hordeum vulgare">
-##contig=<ID=chr4H,length=624247919,assembly=GCA_902498975.1,md5=f45dce256cdb8a74fa3e49e3430d2a2c,species="Hordeum vulgare">
-##contig=<ID=chr5H,length=599018945,assembly=GCA_902498975.1,md5=f45dce256cdb8a74fa3e49e3430d2a2c,species="Hordeum vulgare">
-##contig=<ID=chr6H,length=573247234,assembly=GCA_902498975.1,md5=f45dce256cdb8a74fa3e49e3430d2a2c,species="Hordeum vulgare">
-##contig=<ID=chr7H,length=634667502,assembly=GCA_902498975.1,md5=f45dce256cdb8a74fa3e49e3430d2a2c,species="Hordeum vulgare">
+##contig=<ID=chr1H,length=522466905,assembly=GCA_902498975.1,md5=8d21a35cc68340ecf40e2a8dec9428fa,species="Hordeum vulgare">
+##contig=<ID=chr2H,length=675310294,assembly=GCA_902498975.1,md5=9a2ef2a26fd3c2a218c3578c49da255b,species="Hordeum vulgare">
+##contig=<ID=chr3H,length=628753756,assembly=GCA_902498975.1,md5=b8d5db24ed98b3884a9bf51c22652719,species="Hordeum vulgare">
+##contig=<ID=chr4H,length=624247919,assembly=GCA_902498975.1,md5=19e36fd5ec739f9b32b712cff0ebd84a,species="Hordeum vulgare">
+##contig=<ID=chr5H,length=599018945,assembly=GCA_902498975.1,md5=6106da3b1c3e4188ae1ea64d1e724def,species="Hordeum vulgare">
+##contig=<ID=chr6H,length=573247234,assembly=GCA_902498975.1,md5=19008cc7975a855e50a204621cf357aa,species="Hordeum vulgare">
+##contig=<ID=chr7H,length=634667502,assembly=GCA_902498975.1,md5=4771b23824fd56a53643760ed3282f50,species="Hordeum vulgare">
 ##FILTER=<ID=PASS,Description="All filters passed">
 ##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
 #CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	HOR_1361_BRG	HOR_1531_BRG	HOR_2180_BRG	HOR_2237_BRG	HOR_2957_BRG	HOR_3081_BRG	HOR_337_BRG	HOR_495_BRG	HOR_610_BRG	HOR_997_BRG
