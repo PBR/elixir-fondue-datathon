@@ -10,6 +10,8 @@
 
 ### 10:10 - ... : Evalution submitting own data to EVA, ENA and BioSamples
 ##### (_experts EVA/ENA/BioSamples_)
+- Discussion [issues](../../../issues) encountered in the last week
+- Opportunity to ask questions
 
 ---
 
