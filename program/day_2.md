@@ -9,7 +9,7 @@
 ---
 
 ### 10:10 - 10:40 : Evalution submitting own data to BioSamples and ENA
-- Discussion [issues](../../../issues) encountered last week
+- Discussion [issues](../../../issues) encountered in the last week
 - Opportunity to ask questions
 
 ---
