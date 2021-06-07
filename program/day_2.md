@@ -1,22 +1,22 @@
 <img src="images/logo_elixir.png" width="100">
 
-# Day 2 - Monday, 21 June 2021
-## evaluation and discussion
-
-
+# Day 2 - Monday, 21 June 2021, 10:00 - 13:00 (CEST)
 
 ### 10:00 - 10:10 : Welcome & introduction
 *Martijn van Kaauwen (WUR, Wageningen) / Matthijs Brouwer (WUR, Wageningen)*
+- Workshop schedule / agenda
 
 ---
 
 ### 10:10 - 10:40 : Evalution submitting own data to BioSamples and ENA
-##### (_expert_)
+- Discussion [issues](../../../issues) encountered last week
+- Opportunity to ask questions
 
 ---
 
 ### 10:40 - 11:20 : Ontologies
 *Cyril Pommier*
+- ...
 
 ---
 
@@ -37,7 +37,7 @@
 * Show/use test-server 
 
 ### 12:00 - 12:30 : Submitting data to __EVA__ 
-##### (_supervisor EVA expert_)
+*Baron Koylass (EBI EVA)*
 * Check & validate data workshop attendees
 * Discussion / evaluation
 * Finishing 
