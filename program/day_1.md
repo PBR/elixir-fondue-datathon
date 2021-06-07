@@ -62,7 +62,7 @@
 - CLI and interactive submission
 
 ### 12:15 - 12:45 Submitting data to __ENA__
-##### (_supervisor ENA expert_)
+*Sam Holt (EBI ENA)*
 - Check & validate data workshop attendees
 - Discussion / evaluation
 - Finishing 
