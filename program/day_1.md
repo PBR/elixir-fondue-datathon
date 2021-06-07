@@ -5,7 +5,7 @@
 ## introduction; processing, validating and submitting data
 
 
-### 10:00 - 10:10 : Welcome & introduction
+### 10:00 - 10:10 : Welcome
 *Martijn van Kaauwen (WUR, Wageningen) / Matthijs Brouwer (WUR, Wageningen)*
 - Quick introduction round of all attendees
 - Workshop schedule / agenda
@@ -15,7 +15,8 @@
 
 <img align="right" src="images/logo_elixir.png" width="100">
 
-### 10:10 - 10:30 : Guest speaker 1 (__ELIXIR__)
+### 10:10 - 10:30 : Introduction
+*Sebastian Beier (IPK, Gatersleben)*
 - FONDUE - FAIR-ification of Plant Genotyping Data and its linking to Phenotyping using ELIXIR Platforms
 - Bad examples
 - Workflow proposal
