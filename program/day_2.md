@@ -14,9 +14,8 @@
 
 ---
 
-### 10:40 - 11:20 : Ontologies
+### 10:40 - 11:20 : Phenotyping to omic plant data organization and description using MIAPPE and ontologies
 *Cyril Pommier*
-- ...
 
 ---
 
