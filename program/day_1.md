@@ -29,19 +29,16 @@
 
 ### 10:30 - 11:00 : Lecture about __BioSamples__
 *Fuqi Xu (EBI BioSamples)*
-- Introduction to BioSamples
-- Describe / validate test-data
-- Experiment (meta)-data
-- Sample metadata
-- Submitting test data
-- Show/use test-server 
+- Introduction to BioSamplesw
+- Checklists and data validation in BioSamples
+- Linking samples metadata with data
 
 ### 11:00 - 11:30 : Submitting data to __BioSamples__
 *Isuru Liyanage (EBI BioSamples)*
-- Check & validate data workshop attendees
-- Discussion / evaluation
-- Finishing
-
+- Information about test data
+- Data submission demo
+- Data validation demo
+- Discussion and evaluation
 ---
 
 ### 11:30 - 11:45 : Short break
