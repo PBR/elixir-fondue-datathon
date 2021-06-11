@@ -5,7 +5,7 @@
 
 Presentations overview
 
-## Introduction
+## Introduction slides Day1 - Day2 - Day3
 
 presentation (*for now, to be edited in google docs, when the course will start, this will be replaced with a pdf version*)
 

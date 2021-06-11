@@ -15,13 +15,14 @@
 
 <img align="right" src="images/logo_elixir.png" width="100">
 
-### 10:10 - 10:30 : Introduction
+### 10:10 - 10:30 : Introduction to the ELIXIR Implementation Study FONDUE
 *Sebastian Beier (IPK, Gatersleben)*
+- ELIXIR
 - FONDUE - FAIR-ification of Plant Genotyping Data and its linking to Phenotyping using ELIXIR Platforms
 - Bad examples
+- MIAPPE and ISA-Tab
+- VCF
 - Workflow proposal
-- Ontology lookup (Plant-centric)
-- MIAPPE
 
 ---
 
