@@ -1,0 +1,57 @@
+{
+  "name" : "BATEMPep1",
+  "webinSubmissionAccountId" : "Webin-59267",
+  "release" : "2021-06-02T17:26:21Z",
+  "characteristics" : {
+    "Sample ID_G2P-Sol database" : [ {
+      "text" : "GPC00303"
+    } ],
+    "Sample description" : [ {
+      "text" : "Genomic DNA was extracted from 100 mg fresh leaf tissue collected from individual plants for each accession. DNA extraction was performed either with the DNeasy® Plant Mini Kit (QIAGEN), Germany) or the Sbeadex maxi plant kit (LGC Genomics), Teddington), UK)."
+    } ],
+    "biological material ID" : [ {
+      "text" : "BATEMPep1"
+    } ],
+    "biological material altitude" : [ {
+      "text" : "112"
+    } ],
+    "biological material geographic location" : [ {
+      "text" : "Germany"
+    } ],
+    "biological material latitude" : [ {
+      "text" : "+51.816000"
+    } ],
+    "biological material longitude" : [ {
+      "text" : "+11.283000"
+    } ],
+    "biological material preprocessing" : [ {
+      "text" : "G2P_SOL-Projekt"
+    } ],
+    "genus" : [ {
+      "text" : "Capsicum"
+    } ],
+    "material provider" : [ {
+      "text" : "BATEM"
+    } ],
+    "material source geographic location" : [ {
+      "text" : "Turkey"
+    } ],
+    "organism" : [ {
+      "text" : "Capsicum annuum",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_4072" ]
+    } ],
+    "plant anatomical entity" : [ {
+      "text" : "leaf",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/PO_0025034" ]
+    } ],
+    "project name" : [ {
+      "text" : "G2P-SOL - Linking genetic resources, genomes and phenotypes of Solanaceous crops"
+    } ],
+    "sample id" : [ {
+      "text" : "GAT_LIMS:1272431"
+    } ],
+    "species" : [ {
+      "text" : "annuum"
+    } ]
+  }
+}

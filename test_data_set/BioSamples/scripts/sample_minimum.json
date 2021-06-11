@@ -1,0 +1,14 @@
+{
+  "name" : "FakeSample1",
+  "release" : "2020-03-10T13:56:40.720559Z",
+  "webinSubmissionAccountId" : "$WEBIN_USER",
+  "characteristics" : {
+    "description" : [ {
+      "text" : "fake sample"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ]
+  }
+}

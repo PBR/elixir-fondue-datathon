@@ -1,0 +1,21 @@
+{
+  "name" : "FakeSample1",
+  "release" : "2020-03-10T13:56:40.720559Z",
+  "webinSubmissionAccountId" : "Webin-59267",
+  "characteristics" : {
+    "description" : [ {
+      "text" : "fake sample"
+    } ],
+    "organism" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "biological material ID" : [ {
+      "text" : "Homo sapiens",
+      "ontologyTerms" : [ "http://purl.obolibrary.org/obo/NCBITaxon_9606" ]
+    } ],
+    "checklist" : [ {
+      "text" : "ERC100002"
+    } ]
+  }
+}
