@@ -55,10 +55,10 @@
         "text": "doi:10.25642/IPK/GBIS/18980"
     }],
     "material source latitude": [{
-        "text": ""
+        "text": "not provided"
     }],
     "material source longitude": [{
-        "text": ""
+        "text": "not provided"
     }],
     "material source altitude": [{
 	    "text": ""
@@ -113,7 +113,10 @@
 	}],
     "environment parameter value": [{
 	    "text": ""
-	}]
+	}],
+    "checklist" : [ {
+      "text" : "ERC100002"
+    } ]
   }
 }
 

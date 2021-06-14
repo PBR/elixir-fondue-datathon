@@ -113,7 +113,10 @@
 	}],
     "environment parameter value": [{
 	    "text": ""
-	}]
+	}],
+    "checklist" : [ {
+      "text" : "ERC100002"
+    } ]
   }
 }
 
