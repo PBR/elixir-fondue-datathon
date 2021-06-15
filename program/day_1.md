@@ -9,7 +9,6 @@
 *Martijn van Kaauwen (WUR, Wageningen) / Matthijs Brouwer (WUR, Wageningen)*
 - Quick introduction round of all attendees
 - Workshop schedule / agenda
-- [create user-accounts](https://ena-docs.readthedocs.io/en/latest/submit/general-guide/registration.html)
 
 ---
 
