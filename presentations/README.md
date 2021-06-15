@@ -9,7 +9,7 @@ Presentations overview
 
 Martijn van Kaauwen & Matthijs Brouwer: [introduction & course schedule](https://docs.google.com/presentation/d/1LMzVpw9NKpo3zTFb8Nk-fhWoEumsPOku5KJ43qC3bkw/edit?usp=sharing)
 
-Sebastian Beier: [Community-led Implementation Study FONDUE] (https://docs.google.com/presentation/d/1oweEYVLnsMqQ1pFHZ_0cQCAXd-ZJkvBBsnyp3A3YMG8/edit#slide=id.gdc088faaba_0_158)
+Sebastian Beier: [Community-led Implementation Study FONDUE](https://docs.google.com/presentation/d/1oweEYVLnsMqQ1pFHZ_0cQCAXd-ZJkvBBsnyp3A3YMG8/edit#slide=id.gdc088faaba_0_158)
 
 Sam Holt: [European Nucleotide Archive](https://drive.google.com/file/d/12kONh3kVeRshuRBA7VSE6Qo5yWGYI74C/view?usp=sharing)
 
