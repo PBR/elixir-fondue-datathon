@@ -20,6 +20,7 @@ Sam Holt: European Nucleotide Archive - [Presentation Slides](https://drive.goog
 
 Martijn van Kaauwen & Matthijs Brouwer: [introduction & course schedule](https://docs.google.com/presentation/d/1LMzVpw9NKpo3zTFb8Nk-fhWoEumsPOku5KJ43qC3bkw/edit?usp=sharing)
 
+Baron Koylass: [Presentation Slides](https://docs.google.com/presentation/d/1W8va87XGc2mKwWCOMCIFPOt0Jl05BUx_HyuWh00f0Sk/edit?usp=sharing)
 
 ## Day3
 
